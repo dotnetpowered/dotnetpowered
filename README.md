@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Brian Ritchie 👋
+
+CTO, Architect, Coder, and Author
+
+I'm currently CTO at [XeoHealth Corporation](https://www.xeohealth.com), a leader in Healthcare Real-time Adjudication and working on my Masters in Computer Science at Georgia Tech. My personal site is http://www.dotnetpowered.com
 
 <!--
 **dotnetpowered/dotnetpowered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
