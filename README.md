@@ -1,5 +1,5 @@
 ## Brian Ritchie
-CTO, Architect, Coder. Solving problems with technology.
+CTO, Architect, Coder. Solving problems with technology and sharing what I've learned along the way.
 
 I'm currently CTO at [XeoHealth Corporation](https://www.xeohealth.com), a leader in Healthcare Real-time Adjudication and pursuing my Masters in Computer Science at [Georgia Tech](https://www.gatech.edu/).
 
