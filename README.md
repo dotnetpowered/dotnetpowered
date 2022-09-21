@@ -1,7 +1,7 @@
 ## Brian Ritchie
-CTO, Architect, Coder. Solving problems with technology and sharing what I've learned along the way.
+CTO, Architect, and Coder with a Masters Degree in Computer Science from [Georgia Tech](https://www.gatech.edu/). Love solving problems with technology and sharing what I've learned along the way.
 
-I'm currently CTO at [XeoHealth Corporation](https://www.xeohealth.com), a leader in Healthcare Real-time Adjudication and pursuing my Masters in Computer Science at [Georgia Tech](https://www.gatech.edu/).
+I'm currently CTO at [XeoHealth Corporation](https://www.xeohealth.com), a leader in Healthcare Real-time Adjudication. 
 
 * [Blog Posts](http://www.dotnetpowered.com), [Presentations](https://github.com/dotnetpowered/Presentations), [RavenDB High Performance Book](https://www.amazon.com/RavenDB-High-Performance-Brian-Ritchie/dp/178216698X/ref=sr_1_1?dchild=1&keywords=ravendb+high+performance&qid=1609028683&sr=8-1)
 * [.NET Language List](https://github.com/dotnetpowered/dotnet-languages), [.NET Framework Language List](https://github.com/dotnetpowered/dotnet-framework-languages)
